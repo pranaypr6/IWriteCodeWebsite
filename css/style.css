@@ -1,0 +1,76 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  height: 100vh;
+  width: 100vw;
+  overflow-x: hidden;
+}
+
+.jumbotron {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
+
+.myRow {
+  padding: 2em;
+}
+.container-fluid {
+  padding: 0;
+  margin: 0;
+}
+.nav-item {
+  padding: 5px;
+}
+@media (max-width: 768px) {
+  .jumbotron-foot {
+    margin-top: 10px;
+  }
+}
+.line {
+  border: 1px solid #000;
+  margin-top: 0.5em;
+  width: 80%;
+  margin: 1em 0;
+}
+.builtRow {
+  margin: 4em 0;
+}
+.line_2 {
+  border: 0.1px solid #d3d3d3;
+  margin-top: 3em;
+}
+.logo {
+  color: #f63;
+}
+.svgsection {
+  margin: 4em 0;
+}
+.svgheader {
+  margin: 0.3em 0;
+}
+
+.hiteshsection {
+  margin: 3em 2em;
+}
+
+.team {
+  margin-top: 1em;
+}
+.about {
+  padding-right: 2em;
+}
+.teamsection {
+  margin: 3em 2em;
+}
+.card {
+  padding: 0 !important;
+}
+
+.mycol {
+  text-align: center;
+  align-items: center;
+}
