@@ -29,6 +29,10 @@ body {
   .jumbotron-foot {
     margin-top: 10px;
   }
+  .icons a {
+    font-size: 1em;
+    padding: 0.3em;
+  }
 }
 .line {
   border: 1px solid #000;
