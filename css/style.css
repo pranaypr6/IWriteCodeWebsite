@@ -74,3 +74,15 @@ body {
   text-align: center;
   align-items: center;
 }
+.icons a {
+  font-size: 5em;
+  padding: 1em;
+  color: #000;
+}
+.footer {
+  background-color: #c1c1c1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 10vh;
+}
